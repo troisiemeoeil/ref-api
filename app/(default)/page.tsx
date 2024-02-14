@@ -1,7 +1,6 @@
-import Lenis from '@studio-freight/lenis'
 
 export const metadata = {
-  title: 'Home - Stellar',
+  title: 'Contact - Troisieme Oeil Digital',
   description: 'Page description',
 }
 
